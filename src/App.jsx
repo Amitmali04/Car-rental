@@ -1,13 +1,15 @@
 import { useState } from 'react'
 import './App.css'
-import Navbar from './Navbar'
+import Navbar from './compnents/Navbar'
+import MainRouter from './features/MainRouter'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-   <Navbar />
+   {/* <Navbar /> */}
+
+   <MainRouter />
 
     </>
   )

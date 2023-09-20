@@ -1,0 +1,12 @@
+.hero {
+    background-image: url('https://cdni.autocarindia.com/utils/imageresizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Hyundai-Grand-i10-Nios-200120231541.jpg&w=872&h=578&q=75&c=1'); /* Replace 'your-image.jpg' with your image path */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 150px 0;
+}
+
+.section{
+    padding: 100px 0;
+}
