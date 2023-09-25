@@ -1,8 +1,5 @@
 import React from "react";
 import Card from "../compnents/Card";
-import Footer from "../compnents/Footer";
-import InputField from "../compnents/InputField";
-import SelectFiel from "../compnents/SelectField";
 
 const Home = () => {
   return (

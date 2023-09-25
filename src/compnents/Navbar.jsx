@@ -2,8 +2,8 @@ import React from "react";
 import { Link, NavLink } from "react-router-dom";
 import { adminNavOptions, customerNavOptions, navOptions } from "../navigation";
 
-const isAgentView = true;
-const isAuthUser = true;
+const isAgentView = false;
+const isAuthUser = false;
 
 const user = {
   role: "agent",

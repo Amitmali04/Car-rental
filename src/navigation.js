@@ -29,17 +29,17 @@ export const adminNavOptions = [
   {
     id: "adminList",
     label: "All Cars",
-    path: "/admin-view/all-cars",
+    path: "/agent-view/all-cars",
   },
   {
     id: "adminNewCar",
     label: "Add New New",
-    path: "/admin-view/add-car",
+    path: "/agent-view/add-car",
   },
   {
     id: "adminUserList",
     label: "User List",
-    path: "/admin-view/user-list",
+    path: "/agent-view/user-list",
   },
 ];
 
